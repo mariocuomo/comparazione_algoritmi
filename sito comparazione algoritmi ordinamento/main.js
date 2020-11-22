@@ -126,7 +126,7 @@ new Chart(document.getElementById("line-chart"), {
     options: {
       title: {
         display: true,
-        text: 'Insertion Sort vs Selection Sort vs Merge Sort'
+        text: 'Insertion Sort vs Selection Sort'
       },
       scales: {
         xAxes: [ {
